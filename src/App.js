@@ -1,7 +1,7 @@
 const App = () => {
   return(
     <>
-    here we go!!
+    
     </>
   )
 }
